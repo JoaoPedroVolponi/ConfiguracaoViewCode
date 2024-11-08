@@ -12,7 +12,7 @@
 ## ▶️ Funcionalidades
 - Configuração inicial do Projeto
 
-### 📱 App Screenshots
+### 📱 Capturas de tela do aplicativo
 
 |       🍏       |              ViewController               |  
 | :------------: | :----------------------------------------|
