@@ -4,21 +4,21 @@
 <p align="center">Configuração inicial de um projeto com a linguagem de programação Swift utilizando ViewCode (UIKit)</p>
 <p >Artigo: https://medium.com/@joaopedrovolponi/configura%C3%A7%C3%A3o-inicial-viewcode-sem-storyboard-44f2f987b133</p>
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tecnologias e Ferramentas
 - Swift
 - UIkit
 - ViewCode
 
-## ▶️ Features
+## ▶️ Funcionalidades
 - Configuração inicial do Projeto
 
 ### 📱 App Screenshots
 
 |       🍏       |              ViewController               |  
 | :------------: | :----------------------------------------|
-| Screens | <img src="https://github.com/JoaoPedroVolponi/assets/blob/main/configuracao-viewcode/viewController.png" width="220px;" height="400" />
+| Tela | <img src="https://github.com/JoaoPedroVolponi/assets/blob/main/configuracao-viewcode/viewController.png" width="220px;" height="400" />
 
-## ✨ Autores
+## ✨ Autor
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
