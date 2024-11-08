@@ -16,7 +16,7 @@
 
 |       🍏       |              ViewController               |  
 | :------------: | :----------------------------------------|
-| Screens | <img src="https://github.com/JoaoPedroVolponi/assets/blob/main/configuracao-viewcode/configuracao01.png" width="220px;" height="400" />
+| Screens | <img src="https://github.com/JoaoPedroVolponi/assets/blob/main/configuracao-viewcode/viewController.png" width="220px;" height="400" />
 
 ## ✨ Autores
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
